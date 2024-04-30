@@ -1,0 +1,15 @@
+D:\SyncFusion\Oops\Assigments\1.BankAccount\bin\Debug\net7.0\1.BankAccount.exe
+D:\SyncFusion\Oops\Assigments\1.BankAccount\bin\Debug\net7.0\1.BankAccount.deps.json
+D:\SyncFusion\Oops\Assigments\1.BankAccount\bin\Debug\net7.0\1.BankAccount.runtimeconfig.json
+D:\SyncFusion\Oops\Assigments\1.BankAccount\bin\Debug\net7.0\1.BankAccount.dll
+D:\SyncFusion\Oops\Assigments\1.BankAccount\bin\Debug\net7.0\1.BankAccount.pdb
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\1.BankAccount.csproj.AssemblyReference.cache
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\1.BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\1.BankAccount.AssemblyInfoInputs.cache
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\1.BankAccount.AssemblyInfo.cs
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\1.BankAccount.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\1.BankAccount.dll
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\refint\1.BankAccount.dll
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\1.BankAccount.pdb
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\1.BankAccount.genruntimeconfig.cache
+D:\SyncFusion\Oops\Assigments\1.BankAccount\obj\Debug\net7.0\ref\1.BankAccount.dll

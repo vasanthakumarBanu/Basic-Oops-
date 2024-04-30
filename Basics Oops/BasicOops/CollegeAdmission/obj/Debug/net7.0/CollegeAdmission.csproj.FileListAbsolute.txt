@@ -1,0 +1,15 @@
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.exe
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.deps.json
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.runtimeconfig.json
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.dll
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.pdb
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.AssemblyReference.cache
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfoInputs.cache
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfo.cs
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.dll
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\refint\CollegeAdmission.dll
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.pdb
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.genruntimeconfig.cache
+D:\SyncFusion\Oops\BasicOops\CollegeAdmission\obj\Debug\net7.0\ref\CollegeAdmission.dll

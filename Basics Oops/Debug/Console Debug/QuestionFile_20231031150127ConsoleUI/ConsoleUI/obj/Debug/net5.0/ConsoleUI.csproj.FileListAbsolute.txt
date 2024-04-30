@@ -1,0 +1,16 @@
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\refint\ConsoleUI.dll
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
+D:\SyncFusion\Oops\Assigments\Class Assignment\Console Debug\QuestionFile_20231031150127ConsoleUI\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll

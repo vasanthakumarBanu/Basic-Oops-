@@ -1,0 +1,30 @@
+D:\SyncFusion\Oops\Assigments\2.Payroll\bin\Debug\net7.0\2.Payroll.exe
+D:\SyncFusion\Oops\Assigments\2.Payroll\bin\Debug\net7.0\2.Payroll.deps.json
+D:\SyncFusion\Oops\Assigments\2.Payroll\bin\Debug\net7.0\2.Payroll.runtimeconfig.json
+D:\SyncFusion\Oops\Assigments\2.Payroll\bin\Debug\net7.0\2.Payroll.dll
+D:\SyncFusion\Oops\Assigments\2.Payroll\bin\Debug\net7.0\2.Payroll.pdb
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\2.Payroll.csproj.AssemblyReference.cache
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\2.Payroll.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\2.Payroll.AssemblyInfoInputs.cache
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\2.Payroll.AssemblyInfo.cs
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\2.Payroll.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\2.Payroll.dll
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\refint\2.Payroll.dll
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\2.Payroll.pdb
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\2.Payroll.genruntimeconfig.cache
+D:\SyncFusion\Oops\Assigments\2.Payroll\obj\Debug\net7.0\ref\2.Payroll.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\bin\Debug\net7.0\2.Payroll.exe
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\bin\Debug\net7.0\2.Payroll.deps.json
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\bin\Debug\net7.0\2.Payroll.runtimeconfig.json
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\bin\Debug\net7.0\2.Payroll.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\bin\Debug\net7.0\2.Payroll.pdb
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\2.Payroll.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\2.Payroll.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\2.Payroll.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\2.Payroll.AssemblyInfo.cs
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\2.Payroll.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\2.Payroll.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\refint\2.Payroll.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\2.Payroll.pdb
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\2.Payroll.genruntimeconfig.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\2.Payroll\obj\Debug\net7.0\ref\2.Payroll.dll

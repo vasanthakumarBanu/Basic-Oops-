@@ -1,0 +1,20 @@
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\bin\Debug\net7.0\Debugging.exe
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\bin\Debug\net7.0\Debugging.deps.json
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\bin\Debug\net7.0\Debugging.dll
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\bin\Debug\net7.0\Debugging.pdb
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.dll
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.pdb
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+D:\SyncFusion\Phase -II\Oops\Debug\QuestionFile_20231031141351C#DebuggingAssignmnet\Debugging\obj\Debug\net7.0\ref\Debugging.dll

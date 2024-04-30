@@ -1,0 +1,5 @@
+D:\SyncFusion\Oops\BasicOops\ClassessAndObjects\obj\Debug\net7.0\ClassessAndObjects.csproj.AssemblyReference.cache
+D:\SyncFusion\Oops\BasicOops\ClassessAndObjects\obj\Debug\net7.0\ClassessAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Oops\BasicOops\ClassessAndObjects\obj\Debug\net7.0\ClassessAndObjects.AssemblyInfoInputs.cache
+D:\SyncFusion\Oops\BasicOops\ClassessAndObjects\obj\Debug\net7.0\ClassessAndObjects.AssemblyInfo.cs
+D:\SyncFusion\Oops\BasicOops\ClassessAndObjects\obj\Debug\net7.0\ClassessAndObjects.csproj.CoreCompileInputs.cache

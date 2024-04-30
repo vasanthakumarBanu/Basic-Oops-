@@ -1,0 +1,30 @@
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.exe
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.deps.json
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.runtimeconfig.json
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.dll
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.pdb
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.csproj.AssemblyReference.cache
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.AssemblyInfoInputs.cache
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.AssemblyInfo.cs
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.dll
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\refint\StudentAdmission.dll
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.pdb
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.genruntimeconfig.cache
+D:\SyncFusion\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\ref\StudentAdmission.dll
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.exe
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.deps.json
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.runtimeconfig.json
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.dll
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\bin\Debug\net7.0\StudentAdmission.pdb
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.AssemblyInfo.cs
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.dll
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\refint\StudentAdmission.dll
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.pdb
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\StudentAdmission.genruntimeconfig.cache
+D:\SyncFusion\Phase -II\Oops\BasicOops\StudentAdmission\obj\Debug\net7.0\ref\StudentAdmission.dll

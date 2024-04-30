@@ -1,0 +1,45 @@
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.exe
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.deps.json
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.runtimeconfig.json
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.dll
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.pdb
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.csproj.AssemblyReference.cache
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.AssemblyInfoInputs.cache
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.AssemblyInfo.cs
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.dll
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\refint\Online Library Management.dll
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.pdb
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.genruntimeconfig.cache
+D:\SyncFusion\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\ref\Online Library Management.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.exe
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.deps.json
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.runtimeconfig.json
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\bin\Debug\net7.0\Online Library Management.pdb
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.AssemblyInfo.cs
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\refint\Online Library Management.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.pdb
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\Online Library Management.genruntimeconfig.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\Online Library Management\obj\Debug\net7.0\ref\Online Library Management.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\bin\Debug\net7.0\Online Library Management.exe
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\bin\Debug\net7.0\Online Library Management.deps.json
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\bin\Debug\net7.0\Online Library Management.runtimeconfig.json
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\bin\Debug\net7.0\Online Library Management.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\bin\Debug\net7.0\Online Library Management.pdb
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\Online Library Management.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\Online Library Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\Online Library Management.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\Online Library Management.AssemblyInfo.cs
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\Online Library Management.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\Online Library Management.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\refint\Online Library Management.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\Online Library Management.pdb
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\Online Library Management.genruntimeconfig.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Class Assignment\SyncFusion Library\Online Library Management\obj\Debug\net7.0\ref\Online Library Management.dll

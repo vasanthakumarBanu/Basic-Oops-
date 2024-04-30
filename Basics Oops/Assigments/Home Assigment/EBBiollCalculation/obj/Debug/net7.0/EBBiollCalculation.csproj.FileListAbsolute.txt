@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\EBBiollCalculation.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\EBBiollCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\EBBiollCalculation.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\EBBiollCalculation.AssemblyInfo.cs
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\EBBiollCalculation.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\bin\Debug\net7.0\EBBiollCalculation.exe
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\bin\Debug\net7.0\EBBiollCalculation.deps.json
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\bin\Debug\net7.0\EBBiollCalculation.runtimeconfig.json
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\bin\Debug\net7.0\EBBiollCalculation.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\bin\Debug\net7.0\EBBiollCalculation.pdb
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\EBBiollCalculation.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\refint\EBBiollCalculation.dll
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\EBBiollCalculation.pdb
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\EBBiollCalculation.genruntimeconfig.cache
+D:\SyncFusion\Phase -II\Oops\Assigments\Home Assigment\EBBiollCalculation\obj\Debug\net7.0\ref\EBBiollCalculation.dll

@@ -1,0 +1,15 @@
+D:\SyncFusion\Oops\BasicOops\bin\Debug\net7.0\BasicOops.exe
+D:\SyncFusion\Oops\BasicOops\bin\Debug\net7.0\BasicOops.deps.json
+D:\SyncFusion\Oops\BasicOops\bin\Debug\net7.0\BasicOops.runtimeconfig.json
+D:\SyncFusion\Oops\BasicOops\bin\Debug\net7.0\BasicOops.dll
+D:\SyncFusion\Oops\BasicOops\bin\Debug\net7.0\BasicOops.pdb
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\BasicOops.csproj.AssemblyReference.cache
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\BasicOops.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\BasicOops.AssemblyInfoInputs.cache
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\BasicOops.AssemblyInfo.cs
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\BasicOops.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\BasicOops.dll
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\refint\BasicOops.dll
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\BasicOops.pdb
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\BasicOops.genruntimeconfig.cache
+D:\SyncFusion\Oops\BasicOops\obj\Debug\net7.0\ref\BasicOops.dll
